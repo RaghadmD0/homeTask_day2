@@ -1,6 +1,6 @@
 # 🎓 Student Performance Data Analysis
 
-This project provides a simple exploratory data analysis (EDA) on a student dataset using Python and pandas. The dataset contains information about student names, classes, marks, and gender.
+This project provides a simple data analysis on a student dataset using Python and pandas. The dataset contains information about student names, classes, marks, and gender.
 
 ---
 
